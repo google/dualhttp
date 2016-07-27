@@ -73,7 +73,7 @@ django:
 
     # settings.py:
     MIDDLEWARE_CLASSES = (
-        '...YOUR.PATH...dualhttp.backend.django.EchoHeaderMiddleware',
+        '...YOUR.PATH...dualhttp.backend.for_django.EchoHeaderMiddleware',
     )
 
 Enjoy!
